@@ -2,7 +2,7 @@
 
 A course project at Vilnius Tech to create animation of selected image. I selected ESN logo.
 
-## Installation
+## How to open the script
 
 To run a loaded script, choose File > Scripts > script name. 
 
